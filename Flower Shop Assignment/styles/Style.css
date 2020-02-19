@@ -1,0 +1,94 @@
+form {
+    width:75%;
+    margin-left:15%;
+    justify-content: center;
+    border: 1.6px solid grey;
+    height: default;
+    position:absolute;
+}
+
+p.second {
+    color:#00004d;
+}
+
+h1 {
+    color: darkslateblue;
+}
+
+input[type=text] {
+    border-color: darkturquoise;
+}
+
+.left {
+    width: 30%;
+    position: absolute;
+}
+
+.right {
+    width: 70%;
+    position: relative;
+    margin-left: 30%;
+    margin-top: 0px;
+}
+
+.left1 {
+    width: 30%;
+    position: absolute;
+}
+
+.center1 {
+    width: 35%;
+    position: relative;
+    margin-left: 35%;
+}
+
+.right1 {
+    width: 25%;
+    margin-left: 75%;
+}
+
+.second {
+    background-color: #f0bb75;
+    width: 95%;
+}
+.second_common {
+    width: 100%;
+}
+
+.boxdiv {
+    width:65%;
+    position: relative;
+    margin-left: 35%;
+    margin-top:10px;
+}
+.last{
+    width:5%;
+    float:right;
+    margin-left: 94%;
+    margin-top: -151%;
+}
+
+.last1{
+    width:5%;
+    float:right;
+    margin-left: 95%;
+    margin-top: -143%;
+}
+
+
+#border {
+    background-color: greenyellow;
+    height: 2px;
+}
+
+#float_lt {
+    float: inherit;
+}
+#visa {
+    width: 100px; 
+    height: 55px; 
+    float: right; 
+    margin-bottom:5px; 
+    vertical-align:bottom; 
+    margin-right:30px
+}
